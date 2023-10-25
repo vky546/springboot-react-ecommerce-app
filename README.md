@@ -1,6 +1,17 @@
 # springboot-react-ecommerce-app
 eCommerce application based on the microservices architecture built using Spring Boot and ReactJS.
- 
+
+**Sample screenshots- **
+
+![Screenshot from 2023-10-25 18-03-29](https://github.com/vky546/springboot-react-ecommerce-app/assets/46480713/d39d3d3a-0d9f-42a2-9bc1-6c3f9d57b217)
+![Screenshot from 2023-10-25 18-03-35](https://github.com/vky546/springboot-react-ecommerce-app/assets/46480713/2a9cc862-c768-44ae-bf9c-f59fe274967c)
+![Screenshot from 2023-10-25 18-03-27](https://github.com/vky546/springboot-react-ecommerce-app/assets/46480713/e7074873-4a0a-40fd-ad7a-521ef6613c3e)
+![Screenshot from 2023-10-25 18-03-41](https://github.com/vky546/springboot-react-ecommerce-app/assets/46480713/0bfe1579-78e7-47c0-b335-154e8956d9a1)
+![Screenshot from 2023-10-25 18-03-53](https://github.com/vky546/springboot-react-ecommerce-app/assets/46480713/0fb2579b-cc43-40a3-8efc-17dd5af4eeff)
+![Screenshot from 2023-10-25 18-04-06](https://github.com/vky546/springboot-react-ecommerce-app/assets/46480713/7f19cec6-8726-48e1-b4d1-1e3f8b59c5f2)
+![Screenshot from 2023-10-25 18-04-10](https://github.com/vky546/springboot-react-ecommerce-app/assets/46480713/eb27d27f-80dd-4882-8d24-94578301821b)
+![Screenshot from 2023-10-25 18-04-55](https://github.com/vky546/springboot-react-ecommerce-app/assets/46480713/f40fb09b-b8ac-4a0c-b612-2fe6434ebb02)
+
 **FEATURES**
 
 - Google OAuth 2.0 support for quick login.
